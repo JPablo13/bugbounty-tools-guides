@@ -9,7 +9,7 @@ Here you will find how they work, examples of use, and references to optimize yo
 - [01. 🔎 OSINT & Scanning](#01--osint--scanning)
 - [02. 🚀 Port & Vulnerability Scanning](#02--port--vulnerability-scanning)
 - [03. 💣 Fuzzing & Path Discovery](#03--fuzzing--path-discovery)
-- [04. ⚔️ Exploitation & Analysis](#04--exploitation--analysis)
+- [04. ⚔️ Exploitation & Analysis](#04-%EF%B8%8F-exploitation--analysis)
 - [05. 🌐 OWASP](#05--owasp)
 - [☕ Support & Resources](#-support--resources)
 
