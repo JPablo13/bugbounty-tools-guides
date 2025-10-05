@@ -63,7 +63,7 @@ Here you will find how they work, examples of use, and references to optimize yo
 ---
 
 ## 05. 🌐 OWASP
-| Vulnerabilite  | Access Link |
+| Vulnerability | Access Link |
 | -------------- | ----------- |
 | Broken Access Control (A01) | [Read guide](https://medium.com/meetcyber/complete-guide-to-broken-access-control-hacking-bug-bounty-and-prevention-in-web-applications-d549fcc140d6) |
 | Cryptographic Failures (A02) | [Read guide](https://medium.com/meetcyber/cryptographic-failures-the-definitive-guide-to-hacking-bug-bounty-and-web-security-cd79728201cf) |
