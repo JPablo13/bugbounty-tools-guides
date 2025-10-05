@@ -81,8 +81,8 @@ Here you will find how they work, examples of use, and references to optimize yo
 ## ☕ Support & Resources
 
 📚 You can find all these guides (and more) also on my **[Medium profile](https://medium.com/@jpablo13)**.  
-☕ If you want to support my work, you can do so through **[BuyMeACoffee](https://www.buymeacoffee.com/yourusername)**.  
+☕ If you want to support my work, you can do so through **[BuyMeACoffee](https://buymeacoffee.com/jpablo13)**.  
 
 ---
+<p align="center"><i>✍️ Maintained by JPablo13</i></p>
 
-✍️ Maintained by **JPablo13**
