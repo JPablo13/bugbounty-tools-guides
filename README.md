@@ -6,9 +6,9 @@ Here you will find how they work, examples of use, and references to optimize yo
 ---
 
 ## 01. 🔎 OSINT & Scanning
-| Tool         |  Access Link                                                                                                                                       |
-| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Amass        | [Read guide](https://medium.com/meetcyber/amass-complete-guide-to-subdomain-recognition-and-attack-surface-mapping-c1736db05f88)                   |
+| Tool         |  Access Link                                                                                                                                       | Description |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| Amass        | [Read guide](https://medium.com/meetcyber/amass-complete-guide-to-subdomain-recognition-and-attack-surface-mapping-c1736db05f88)                   | Complete Guide to Subdomain Recognition and Attack Surface Mapping |
 | FOFA         | [Read guide](https://medium.com/meetcyber/fofa-the-definitive-guide-to-asset-recognition-in-bug-bounty-and-osint-dc0448055220)                     |
 | Gf           | [Read guide](https://medium.com/meetcyber/gf-your-essential-ally-for-vulnerability-recognition-and-detection-in-bug-bounty-a12f04a110ff)           |
 | Google Dorks | [Read guide](https://medium.com/meetcyber/master-google-dorks-search-techniques-for-cybersecurity-and-osint-7ced756d02ca)                          |
@@ -37,7 +37,7 @@ Here you will find how they work, examples of use, and references to optimize yo
 | Dirsearch    | [Read guide](https://medium.com/meetcyber/discover-how-attackers-abuse-clipboard-paste-handling-to-trigger-blind-xss-from-setup-to-65251336bb2e) |
 | Feroxbuster  | [Read guide](https://medium.com/meetcyber/feroxbuster-an-ultra-fast-web-content-fuzzer-7a50d98dcf60)                                             |
 | FFUF         | [Read guide](https://medium.com/meetcyber/ffuf-effective-fuzzing-for-pentesting-and-bug-bounty-5225c4d3c56b)                                     |
-| Findomain    | [Read guide](https://medium.com/@jpablo13/findomain-essential-tool-for-passive-subdomain-enumeration-2c1e78e71214)                               |
+| Findomain    | [Read guide](https://medium.com/meetcyber/findomain-essential-tool-for-passive-subdomain-enumeration-2c1e78e71214)                               |
 | Gobuster     | [Read guide](https://medium.com/meetcyber/gobuster-your-essential-tool-for-web-enumeration-pentesting-and-bug-bounty-143c3d134587)               |
 | Wfuzz        | [Read guide](https://medium.com/meetcyber/wfuzz-fuzzing-web-for-pentesting-and-bug-bounty-06eb43124603)                                          |
 
