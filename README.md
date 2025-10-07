@@ -59,7 +59,7 @@ Here you will find how they work, examples of use, and references to optimize yo
 | The Ultimate **SQLMap** Guide: Detecting and Exploiting SQL Injection | [Read guide](https://medium.com/meetcyber/the-ultimate-sqlmap-guide-detecting-and-exploiting-sql-injection-0499a6091022) |
 | Master **WPScan** in Bug Bounty: Essential Guide to Vulnerability Scanning | [Read guide](https://medium.com/meetcyber/master-wpscan-in-bug-bounty-essential-guide-to-vulnerability-scanning-6c68a4a19b3a) |
 | Mastering **XSStrike**: Detecting and Exploiting XSS Vulnerabilities | [Read guide](https://medium.com/meetcyber/mastering-xsstrike-detecting-and-exploiting-xss-vulnerabilities-74dd1ec3e5a9) |
-
+| WafWOOF    | 🚧 Guide in progress... |
 ---
 
 ## 05. 🌐 OWASP
