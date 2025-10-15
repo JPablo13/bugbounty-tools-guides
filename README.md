@@ -35,6 +35,7 @@ Here you will find how they work, examples of use, and references to optimize yo
 | Tool     | Access Link                                                                                                                                |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Complete Guide to **Masscan**: High-Speed Port Scanning for Cybersecurity Professionals | [Read guide](https://medium.com/meetcyber/complete-guide-to-masscan-high-speed-port-scanning-for-cybersecurity-professionals-9bb4f61c6173) |
+| Mastering **Naabu**: A fast port scanner for bug hunting | [Read guide](https://medium.com/meetcyber/mastering-naabu-a-fast-port-scanner-for-bug-hunting-9a0020abfdf1)  |
 | **Nuclei** for Bug Bounty: The Ultimate Guide to Automated Vulnerability Detection | [Read guide](https://medium.com/meetcyber/nuclei-for-bug-bounty-the-ultimate-guide-to-automated-vulnerability-detection-acf0e28b7eac)      |
 
 ---
