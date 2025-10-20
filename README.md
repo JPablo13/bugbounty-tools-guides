@@ -36,6 +36,7 @@ Here you will find how they work, examples of use, and references to optimize yo
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Complete Guide to **Masscan**: High-Speed Port Scanning for Cybersecurity Professionals | [Read guide](https://medium.com/meetcyber/complete-guide-to-masscan-high-speed-port-scanning-for-cybersecurity-professionals-9bb4f61c6173) |
 | Mastering **Naabu**: A fast port scanner for bug hunting | [Read guide](https://medium.com/meetcyber/mastering-naabu-a-fast-port-scanner-for-bug-hunting-9a0020abfdf1)  |
+| **Nmap** Guide — Port Scanning is Just the Beginning | [Read guide](https://medium.com/@jpablo13/nmap-guide-port-scanning-is-just-the-beginning-0d60ebba5987) |
 | **Nuclei** for Bug Bounty: The Ultimate Guide to Automated Vulnerability Detection | [Read guide](https://medium.com/meetcyber/nuclei-for-bug-bounty-the-ultimate-guide-to-automated-vulnerability-detection-acf0e28b7eac)      |
 
 ---
@@ -57,7 +58,7 @@ Here you will find how they work, examples of use, and references to optimize yo
 ## 04. ⚔️ Exploitation & Analysis
 | Tool       | Access Link                                                                                                                   |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------- | 
-| Burp Suite | [Read guide](https://medium.com/@jpablo13/burp-suite-guide-to-ethical-hacking-b47cf56fe638)                                   |
+| **Burp Suite** Guide to Ethical Hacking (Part 1) | [Read guide](https://medium.com/@jpablo13/burp-suite-guide-to-ethical-hacking-b47cf56fe638) |
 | **Dalfox**: Smart XSS Scanner for Bug Bounty and Pentesting | [Read guide](https://medium.com/meetcyber/dalfox-smart-xss-scanner-for-bug-bounty-and-pentesting-c9a4a8708179) |
 | The Ultimate **SQLMap** Guide: Detecting and Exploiting SQL Injection | [Read guide](https://medium.com/meetcyber/the-ultimate-sqlmap-guide-detecting-and-exploiting-sql-injection-0499a6091022) |
 | Master **WPScan** in Bug Bounty: Essential Guide to Vulnerability Scanning | [Read guide](https://medium.com/meetcyber/master-wpscan-in-bug-bounty-essential-guide-to-vulnerability-scanning-6c68a4a19b3a) |
