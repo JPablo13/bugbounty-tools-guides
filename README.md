@@ -45,6 +45,7 @@ Here you will find how they work, examples of use, and references to optimize yo
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | 
 | **Assetfinder** Guide: The Essential Tool for Subdomain Discovery in Bug Bounty | [Read guide](https://medium.com/meetcyber/assetfinder-guide-the-essential-tool-for-subdomain-discovery-in-bug-bounty-a703363a4598) |
 | **Dirsearch**: Discover Hidden Directories and Files Like a Bug Bounty Pro | [Read guide](https://medium.com/meetcyber/discover-how-attackers-abuse-clipboard-paste-handling-to-trigger-blind-xss-from-setup-to-65251336bb2e) |
+|  Complete Guide to **Dnsx** for Mass DNS Resolution and Bug Bounty  | [Read guide](https://medium.com/meetcyber/complete-guide-to-dnsx-for-mass-dns-resolution-and-bug-bounty-f8bed1598770) |
 | **Feroxbuster**: An Ultra-Fast Web Content Fuzzer  | [Read guide](https://medium.com/meetcyber/feroxbuster-an-ultra-fast-web-content-fuzzer-7a50d98dcf60) |
 | **FFUF**: Effective Fuzzing for Pentesting and Bug Bounty | [Read guide](https://medium.com/meetcyber/ffuf-effective-fuzzing-for-pentesting-and-bug-bounty-5225c4d3c56b) |
 | **Findomain**: Essential Tool for Passive Subdomain Enumeration | [Read guide](https://medium.com/meetcyber/findomain-essential-tool-for-passive-subdomain-enumeration-2c1e78e71214) |
