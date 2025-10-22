@@ -27,7 +27,7 @@ Here you will find how they work, examples of use, and references to optimize yo
 
 ### **GetAllUrls (gau)**: The Detector of Old and Forgotten Endpoints in Bug Bounty
 - Medium: [Link guide](https://medium.com/@jpablo13/getallurls-gau-the-detector-of-old-and-forgotten-endpoints-in-bug-bounty-8f8a40a92606)
-- BuyMeACoffe: [Link guide]() *In progress*
+- BuyMeACoffe: [Link guide](https://buymeacoffee.com/jpablo13/getallurls-gau-the-detector-old-forgotten-endpoints-bug-bounty)
 
 ### **gf**: Your Essential Ally for Vulnerability Recognition and Detection in Bug Bounty
 - Medium: [Link guide](https://medium.com/meetcyber/gf-your-essential-ally-for-vulnerability-recognition-and-detection-in-bug-bounty-a12f04a110ff)
@@ -67,7 +67,7 @@ Here you will find how they work, examples of use, and references to optimize yo
 
  ### Mastering **Naabu**: A fast port scanner for bug hunting
 - Medium: [Link guide](https://medium.com/meetcyber/mastering-naabu-a-fast-port-scanner-for-bug-hunting-9a0020abfdf1)
-- BuyMeACoffe: [Link guide]() *In progress*
+- BuyMeACoffe: [Link guide](https://buymeacoffee.com/jpablo13/mastering-naabu-a-fast-port-scanner-bug-hunting)
 
  ### **Nuclei** for Bug Bounty: The Ultimate Guide to Automated Vulnerability Detection
 - Medium: [Link guide](https://medium.com/meetcyber/nuclei-for-bug-bounty-the-ultimate-guide-to-automated-vulnerability-detection-acf0e28b7eac)
@@ -85,9 +85,13 @@ Here you will find how they work, examples of use, and references to optimize yo
 - Medium: [Link guide](https://medium.com/meetcyber/discover-how-attackers-abuse-clipboard-paste-handling-to-trigger-blind-xss-from-setup-to-65251336bb2e)
 - BuyMeACoffe: [Link guide](https://buymeacoffee.com/jpablo13/dirsearch-discover-hidden-directories-files-like-bug-bounty-pro)
 
+ ### Learn how to use **dnsrecon** for Exhaustive DNS Enumeration and Bug Bounty
+- Medium: [Link guide](https://medium.com/@jpablo13/learn-how-to-use-dnsrecon-for-exhaustive-dns-enumeration-and-bug-bounty-0924e19400f6)
+- BuyMeACoffe: [Link guide](https://buymeacoffee.com/jpablo13/learn-use-dnsrecon-exhaustive-dns-enumeration-bug-bounty)
+
  ### Complete Guide to **Dnsx** for Mass DNS Resolution and Bug Bounty
 - Medium: [Link guide](https://medium.com/meetcyber/complete-guide-to-dnsx-for-mass-dns-resolution-and-bug-bounty-f8bed1598770)
-- BuyMeACoffe: [Link guide]() *In progress*
+- BuyMeACoffe: [Link guide](https://buymeacoffee.com/jpablo13/complete-guide-dnsx-mass-dns-resolution-bug-bounty)
 
  ### **Feroxbuster**: An Ultra-Fast Web Content Fuzzer
 - Medium: [Link guide](https://medium.com/meetcyber/feroxbuster-an-ultra-fast-web-content-fuzzer-7a50d98dcf60)
