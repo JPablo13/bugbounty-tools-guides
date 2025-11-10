@@ -1,8 +1,8 @@
 # 🛡️ Bug Bounty Tools Guides
 
-This repository compiles detailed guides and explanations on the main tools used in Bug Bounty, Pentesting, and Offensive Cybersecurity.
-You will also find guides to help you understand the most relevant vulnerabilities.
-Here you will find how they work, examples of use, and references to optimize your security testing.
+This repository compiles detailed guides and explanations on the main tools used in Bug Bounty, Pentesting, and Offensive Cybersecurity.    
+You will also find guides to help you understand the most relevant vulnerabilities.     
+Here you will find how they work, examples of use, and references to optimize your security testing.    
 
 ---
 
