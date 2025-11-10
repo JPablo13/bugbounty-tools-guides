@@ -1,6 +1,7 @@
 # 🛡️ Bug Bounty Tools Guides
 
-Repository that compiles **detailed guides and explanations** on the main tools used in **Bug Bounty, Pentesting, and Offensive Cybersecurity**.     
+This repository compiles detailed guides and explanations on the main tools used in Bug Bounty, Pentesting, and Offensive Cybersecurity.
+You will also find guides to help you understand the most relevant vulnerabilities.
 Here you will find how they work, examples of use, and references to optimize your security testing.
 
 ---
@@ -10,7 +11,8 @@ Here you will find how they work, examples of use, and references to optimize yo
 - [02. 🚀 Port & Vulnerability Scanning](https://github.com/JPablo13/bugbounty-tools-guides/blob/main/02.%20Port%20%26%20Vulnerability%20Scanning.md)
 - [03. 💣 Fuzzing & Path Discovery](https://github.com/JPablo13/bugbounty-tools-guides/blob/main/03.%20Fuzzing%20%26%20Path%20Discovery.md)
 - [04. ⚔️ Exploitation & Analysis](https://github.com/JPablo13/bugbounty-tools-guides/blob/main/04.%20Exploitation%20%26%20Analysis.md)
-- [05. 🌐 OWASP](https://github.com/JPablo13/bugbounty-tools-guides/blob/main/05.%20OWASP.md) 
+- [05. 🌐 OWASP](https://github.com/JPablo13/bugbounty-tools-guides/blob/main/05.%20OWASP.md)
+- [06. ⚠️ Vulnerabilities]()
 
 ---
 
